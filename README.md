@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Dhulipala</h1>
 <h3 align="center">Machine Learning Engineer | Software Developer | AI/ML & Full Stack Enthusiast 🎓 MS in Computer Science @ Stevens Institute of Technology 📍 Based in Manhattan, NY | Open to opportunities</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=neeraj1942" alt="neeraj1942" /></a> </p>
 
 ## About Me : 
 - 🔭 I’m currently working on **Real-Time Recommendation System using Collaborative Filtering & AWS**
