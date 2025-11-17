@@ -16,7 +16,7 @@
 - 📫 How to reach me **dhulipala.neeraj@gmail.com**
 
 - 📄 Know about my experiences
-(https://github.com/Neeraj1942/Resume/blob/main/NeerajD-Resume.pdf)](https://github.com/Neeraj1942/Resume/blob/main/NeerajD-Resume.pdf))
+https://github.com/Neeraj1942/Resume/blob/main/NeerajD-Resume.pdf
 
 - ⚡ Fun fact **In just over two years, I’ve helped build backend systems that manage 50,000+ daily records and support thousands of users, improving recommendation accuracy by 15%**
 
