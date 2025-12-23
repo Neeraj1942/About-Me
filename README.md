@@ -51,10 +51,6 @@ Building scalable ML systems and full-stack applications. Experienced in deployi
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj1942&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj1942&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
