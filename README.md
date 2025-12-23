@@ -46,12 +46,4 @@ Building scalable ML systems and full-stack applications. Experienced in deployi
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=neeraj1942&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj1942&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 ![snake gif](https://github.com/Neeraj1942/Neeraj1942/blob/output/github-snake.svg)
